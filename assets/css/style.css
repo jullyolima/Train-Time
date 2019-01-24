@@ -1,0 +1,35 @@
+.jumbotron {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    background-color: rgb(52, 128, 226);
+}
+
+.user-input {
+    width: 100%;
+}
+#searchPara {
+    border: 2px solid rgb(3, 36, 46);
+    border-radius: 2px;
+    padding: 10px;
+    background-color: rgb(128, 185, 240);
+}
+
+form {
+    border: 2px solid lightgray;
+    border-radius: 2px;
+    padding: 10px;
+}
+
+#topArticles {
+    border: 2px solid lightgray;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: lightgray;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid lightgray;
+    padding: 10px;
+}
